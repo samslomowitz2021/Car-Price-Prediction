@@ -1,4 +1,4 @@
-# SMU_project1_Group2
+# SMU Data Science
 
 ## Used Car Price Prediction
 
