@@ -31,7 +31,12 @@ trends and patterns of the used car data.
 
 ### Preview of our Project
 
+
+![Alt text](corr_plot.png?raw=true "Title")
+
 ![Alt text](mpg.png?raw=true "Title")
+
+![Alt text](violin.png?raw=true "Title")
 
 
 #### References
