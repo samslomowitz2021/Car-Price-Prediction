@@ -29,6 +29,11 @@ impact year on the price of a car in the used car market. Another point of inter
 can expand the dataset with new car data gathered from APIs, once we have understood the basic
 trends and patterns of the used car data.
 
+### Preview of our Project
+
+![Alt text](mpg.png?raw=true "Title")
+
+
 #### References
 ---
 
